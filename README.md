@@ -27,10 +27,17 @@ Each student should create a folder with their **registration number** inside th
  │   ├── 📁 Backend  
  │   │   ├── Python  
  │   │   ├── Flask  
+ │   ├── 📁 Homework  
+ │   │   ├── 📄 Task1.md  
+ │   │   ├── 📄 Task2.md  
+ │   ├── 📁 Daily-Tasks  
+ │   │   ├── 📁 2025-02-10  
+ │   │   │   ├── 📄 task.md  
+ │   │   ├── 📁 2025-02-11  
+ │   │   │   ├── 📄 task.md  
  │   ├── 📁 Projects  
  │   └── README.md (Optional: Describe your work)  
  ├── 📁 654321  
- ├── 📁 Common-Resources (Guides, Tutorials)  
  └── README.md  
 ```
 
